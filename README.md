@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontendmentor](https://www.frontendmentor.io/solutions/order-summary-card-solution-TcHzV_jh7)
-- Live Site URL: [Live site](https://github.com/sumusiriwardana/order-summary-component)
+- Live Site URL: [Live site](https://sumusiriwardana.github.io/order-summary-component/)
 
 ## My process
 
