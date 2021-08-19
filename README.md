@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontendmentor](https://www.frontendmentor.io/solutions/huddle-landing-page-with-alternating-feature-blocks-solution-eXxIk_u3E)
-- Live Site URL: [Live site](https://sumusiriwardana.github.io/huddle-landing-page/)
+- Solution URL: [Frontendmentor](https://www.frontendmentor.io/solutions/order-summary-card-solution-TcHzV_jh7/huddle-landing-page-with-alternating-feature-blocks-solution-eXxIk_u3E)
+- Live Site URL: [Live site](https://sumusiriwardana.github.io/order-summary-component/)
 
 ## My process
 
